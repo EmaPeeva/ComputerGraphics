@@ -1,0 +1,17 @@
+{
+  "name": "week_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.5.1",
+    "three": "^0.169.0",
+    "vite": "^5.4.9"
+  },
+  "description": ""
+}
