@@ -1,0 +1,2 @@
+CampusModel/node_modules/@swc/core-win32-x64-msvc/swc.win32-x64-msvc.node filter=lfs diff=lfs merge=lfs -text
+CampusModel/.parcel-cache/data.mdb filter=lfs diff=lfs merge=lfs -text
